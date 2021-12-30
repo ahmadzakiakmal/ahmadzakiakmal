@@ -1,4 +1,22 @@
-### Hi there 👋
+# My Profile 👋
+Hello! I'm Ahmad Zaki Akmal. I live in Indonesia.
+
+💻 Undergrad Information Engineering Student 
+
+🏫 Gadjah Mada University
+
+I plan to study game development and website development.
+
+## test
+<a href="https://ahmadzaki2975-music.vercel.app/now-playing?open">
+    <img src="https://ahmadzaki2975-music.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
+## Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=100px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&hide=stars,issues,contribs,prs)
+
 
 <!--
 **ahmadzaki2975/ahmadzaki2975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
