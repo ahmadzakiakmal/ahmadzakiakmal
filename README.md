@@ -10,7 +10,7 @@ Hello! I'm Ahmad Zaki Akmal. I live in Indonesia.
 
 I plan to study 🎮 game development and 🌐 website development.
 
-## Spotify
+## Spotify 🎧
 [<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ahmadzaki2975)
 
 ## Github Stats 📊
