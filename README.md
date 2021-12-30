@@ -7,11 +7,6 @@ Hello! I'm Ahmad Zaki Akmal. I live in Indonesia.
 
 I plan to study game development and website development.
 
-## test
-<a href="https://ahmadzaki2975-music.vercel.app/now-playing?open">
-    <img src="https://ahmadzaki2975-music.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
-
 ## Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=100px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
