@@ -1,4 +1,4 @@
-<img src="23193.png" style="width:100%;height:300px">
+<img align="center" src="23193.png" style="width:100%;height:300px">
 
 # My Profile 👋
 
