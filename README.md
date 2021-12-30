@@ -10,7 +10,7 @@ Hello! I'm Ahmad Zaki Akmal. I live in Indonesia.
 
 I plan to study game development and website development.
 
-## Github Stats
+## Github Stats 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=100px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&hide=stars,issues,contribs,prs)
