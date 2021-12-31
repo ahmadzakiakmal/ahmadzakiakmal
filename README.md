@@ -3,7 +3,7 @@
 <p style="font-size=10px" align="center">
   <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=dc143c">
   <br>
-  <img width="60%" src="giphy.gif">
+  <img width="75%" src="giphy.gif">
   <br>
    <!--<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890"><p font-size=1>gif source</p></a>-->
   
@@ -11,7 +11,9 @@
 
 # Hello 👋
 
-I'm --Ahmad Zaki Akmal--. I live in Indonesia.
+I'm Ahmad Zaki Akmal, you can call me Zaki. 
+  
+🏡 I live in Indonesia.
 
 💻 Undergrad Information Engineering Student 
 
