@@ -1,12 +1,14 @@
 <h1 align="center">Welcome to My Profile<h1>
 
 <p style="font-size=10px" align="center">
+  <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=dc143c">
+  <br>
   <img width="60%" src="giphy.gif">
   <br>
-   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890"><p font-size=1>gif source</p></a>
+   <!--<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890"><p font-size=1>gif source</p></a>-->
+  
 </p>
 
-  
 # Hello 👋
 
 I'm Ahmad Zaki Akmal. I live in Indonesia.
@@ -18,7 +20,7 @@ I'm Ahmad Zaki Akmal. I live in Indonesia.
 I plan to study 🎮 game development and 🌐 website development.
 
 ## Spotify 🎧
-[<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/ahmadzaki2975)
+[<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/ahmadzaki2975)
 
 ## Social Medias 📮
 ### Main
@@ -51,9 +53,9 @@ I plan to study 🎮 game development and 🌐 website development.
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 ## Github Stats 📊
-  <p align="center" style="display:flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=100px&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&hide=stars,issues,contribs,prs">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=150px&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&height=150px&hide=stars,issues,contribs,prs">
     <img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark">
   </p>
   
