@@ -1,4 +1,3 @@
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 <h1 align="center">Welcome to My Profile<h1>
 
 <p style="font-size=10px" align="center">
