@@ -1,10 +1,13 @@
 <h1 align="center">Welcome to My Profile<h1>
- 
 
- 
+<p  align="center">
+<img width="60%" src="giphy.gif">
+</p>
+<a display="inline" height="10" align="center" href="https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890">gif source</a>
+  
 # Hello 👋
 
-I'm Ahmad Zaki Akmal. I live in Indonesia.
+I'm Ahmad Zaki Akmal. I live in Indonesia. <span class="fi fi-gr"></span>
 
 💻 Undergrad Information Engineering Student 
 
@@ -13,7 +16,7 @@ I'm Ahmad Zaki Akmal. I live in Indonesia.
 I plan to study 🎮 game development and 🌐 website development.
 
 ## Spotify 🎧
-[<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ahmadzaki2975)
+[<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/ahmadzaki2975)
 
 ## Social Medias 📮
 ### Main
