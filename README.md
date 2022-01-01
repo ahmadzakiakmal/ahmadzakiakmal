@@ -13,7 +13,7 @@
 
 I'm Ahmad Zaki Akmal, you can call me Zaki. 
   
-🏡 I live in Indonesia.
+🏡 I live in Salatiga, Indonesia.
 
 💻 Undergrad Information Engineering Student 
 
