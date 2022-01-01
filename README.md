@@ -1,15 +1,20 @@
 <h1 align="center">Welcome to My Profile<h1>
 
 <p style="font-size=10px" align="center">
+  <!-- views count -->
   <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=dc143c">
   <br>
-  <img width="75%" src="giphy.gif">
+  <!-- gif cover -->
+  <img width="90%" src="giphy.gif">
   <br>
-   <!--<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890"><p font-size=1>gif source</p></a>-->
-  
 </p>
+<p align="right">
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890"><sub style="color:red;font-size:40px;">gif source</sub></a>
+</p>
+  
+<!--[gif source](https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890)-->
 
-# Hello 👋
+  # Hello 👋
 
 I'm Ahmad Zaki Akmal, you can call me Zaki. 
   
@@ -22,6 +27,7 @@ I'm Ahmad Zaki Akmal, you can call me Zaki.
 I plan to study 🎮 game development and 🌐 website development.
 
 ## Spotify 🎧
+<!-- Spotify status -->
 [<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/ahmadzaki2975)
 
 ## Social Medias 📮
@@ -64,7 +70,7 @@ I plan to study 🎮 game development and 🌐 website development.
     <img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark">
   </p>
   
-<!--
+<!-- markup ver
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=100px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&hide=stars,issues,contribs,prs)
 -->
