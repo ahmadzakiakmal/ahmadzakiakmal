@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Profile<h1>
+<h1 align="center">😀Welcome to My Profile❄<h1>
 
 <p style="font-size=10px" align="center">
   <!-- views count -->
@@ -15,7 +15,6 @@
 <!--[gif source](https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890)-->
 
   # Hello 👋
-
 I'm Ahmad Zaki Akmal, you can call me Zaki. 
   
 🏡 I live in Salatiga, Indonesia.
@@ -26,6 +25,8 @@ I'm Ahmad Zaki Akmal, you can call me Zaki.
 
 I plan to study 🎮 game development and 🌐 website development.
 
+Likes games 🕹, drawing 🎨, anime/manga 🎌
+  
 ## Spotify 🎧
 <!-- Spotify status -->
 [<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/ahmadzaki2975)
