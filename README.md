@@ -64,6 +64,7 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Python-FFD644?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white">
 </div> 
   
 #### Learning Platforms 📝
