@@ -77,7 +77,7 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
   <img src="https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white">
 
 ## Github Stats 📊
-  <p align="center" style="display:flex">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=150px&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&height=150px&hide=stars,issues,contribs,prs">
     <img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark">
