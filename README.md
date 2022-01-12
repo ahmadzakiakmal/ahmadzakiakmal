@@ -15,11 +15,11 @@
 <!--[gif source](https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890)-->
 
   # Hello 👋
-I'm Ahmad Zaki Akmal, you can call me Zaki. 
+🙂 I'm **Ahmad Zaki Akmal**, you can call me **Zaki**. 
   
-🏡 I live in Salatiga, Indonesia.
+🏡 I live in **Salatiga, Indonesia**.
 
-💻 Undergrad Information Engineering Student 
+👨‍🎓 Undergrad **Information Engineering** Student 
 
 🏫 Gadjah Mada University
 
