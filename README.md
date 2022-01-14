@@ -84,6 +84,7 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
 <div style="float:left">
   <img src="https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white">
   <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
+  <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
 </div>
 
 ## Github Stats 📊
