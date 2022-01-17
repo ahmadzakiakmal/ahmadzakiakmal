@@ -5,7 +5,7 @@
   <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=dc143c">
   <br>
   <!-- gif cover -->
-  <img width="90%" src="./gifs/dr-stone-science.gif">
+  <img width="80%" src="./gifs/dr-stone-science.gif">
   <br>
 </p>
   <!-- sauce -->
