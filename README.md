@@ -5,12 +5,12 @@
   <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=dc143c">
   <br>
   <!-- gif cover -->
-  <img width="80%" src="./gifs/dr-stone-science.gif">
+  <img width="80%" src="./gifs/senku2.gif">
   <br>
 </p>
   <!-- sauce -->
 <p align="right">
-  <a href="https://tenor.com/view/dr-stone-science-thinking-senku-gif-15434359"><sub style="color:red;font-size:40px;">gif source</sub></a>
+  <a href="https://giphy.com/gifs/dr-stone-senku-yJfsr3s7Sc94vMSwfu"><sub style="color:red;font-size:40px;">gif source</sub></a>
 </p>
   
 <!--[gif source](https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890)-->
