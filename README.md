@@ -1,19 +1,18 @@
-<h1 align="center">Welcome to My Profile😀<h1>
+<h1 align="center">Welcome to My Profile😀</h1>
 
 <p align="center">
   <!-- views count -->
   <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=4082CD">
   <br>
   <!-- gif cover -->
-  <img width="80%" src="./gifs/senku2.gif">
+  <img width="60%" src="./gifs/senku2.gif">
   <br>
 </p>
   <!-- sauce -->
-<p align="right">
-  <a href="https://giphy.com/gifs/dr-stone-senku-yJfsr3s7Sc94vMSwfu"><sub style="color:red;font-size:40px;">gif source</sub></a>
+<p align="center">
+  <a href="https://giphy.com/gifs/dr-stone-senku-yJfsr3s7Sc94vMSwfu">gif source</a>
 </p>
   
-<!--[gif source](https://steamcommunity.com/sharedfiles/filedetails/?id=2550911890)-->
 
   # Hello 👋
 🙂 I'm **Ahmad Zaki Akmal**, you can call me **Zaki**. 
@@ -44,7 +43,7 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
 ### 🎉Trivial
 [<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/ahmadzaki2975)
 [<img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white">](https://myanimelist.net/profile/Obsxcrn)
-<!--
+<!-- template
 [<img src="">]()
 -->
 
@@ -90,6 +89,11 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
   <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
 </div>
 
+<!-- badge sauce -->
+<p align="center">
+  credits for the badges <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-">here</a>
+</p>
+
 ## Github Stats 📊
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=150px&layout=compact">
@@ -97,8 +101,7 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
     <img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark">
 </p>
   
-  
-  [credit for badges here](https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-)
+
 <!-- markup ver
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=100px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&hide=stars,issues,contribs,prs)
