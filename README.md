@@ -30,6 +30,8 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
 ## Spotify 🎧
 <!-- Spotify status -->
 [<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/ahmadzaki2975)
+<!-- spotify sauce -->
+<p align="right">credits for spotify status <a href="https://github.com/novatorem/novatorem">here</a></p>
 
 ## Social Medias 📮
 ### 📌Main
@@ -66,7 +68,6 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  
   <!-- template
   <img src="">
   -->
@@ -90,7 +91,7 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
 </div>
 
 <!-- badge sauce -->
-<p align="center">
+<p align="right">
   credits for the badges <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-">here</a>
 </p>
 
@@ -99,8 +100,12 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=150px&layout=compact&card_width=250px">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&height=150px&hide=stars,issues,contribs,prs">
     <img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark">
+  
+    <!-- github stats sauce -->
+    <p align="right">credits for github stats <a href="https://github.com/anuraghazra/github-readme-stats">here</a></p>
 </p>
   
+<h2 align="center">~~~</h2>
 
 <!-- markup ver
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=100px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
