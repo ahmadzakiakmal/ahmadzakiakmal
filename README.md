@@ -96,9 +96,9 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
 </p>
 
 ## Github Stats 📊
-<p align="left" style="display: inline-block">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&height=150px&layout=compact&card_width=250px">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&height=150px&hide=stars,issues,contribs,prs">
+<p align="center" style="display: inline-block">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&card_height=150px&layout=compact&card_width=250px">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&card_height=150px&hide=stars,issues,contribs,prs">
     <img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark">
     <!-- github stats sauce -->
     <p align="right">credits for github stats <a href="https://github.com/anuraghazra/github-readme-stats">here</a></p>
