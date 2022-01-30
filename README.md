@@ -97,7 +97,7 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
 
 ## Github Stats 📊
 <p align="center" style="display: inline-block">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&theme=tokyonight&card_height=150px&layout=compact&card_width=250px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&card_height=150px&hide=stars,issues,contribs,prs">
     <img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark">
     <!-- github stats sauce -->
