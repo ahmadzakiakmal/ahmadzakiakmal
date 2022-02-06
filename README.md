@@ -5,7 +5,7 @@
   <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=4082CD">
   <br>
   <!-- gif cover -->
-  <img width="60%" src="./gifs/senku2.gif">
+  <img src="./gifs/senku2.gif">
   <br>
 </p>
   <!-- sauce -->
