@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Profile</h1>
 
 <!-- COVER -->
-<p align="center">
+<!-- <p align="center"> -->
   <!-- views count -->
 <!--   <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=4082CD">
   <br> -->
@@ -14,7 +14,10 @@
   <a href="https://giphy.com/gifs/dr-stone-senku-yJfsr3s7Sc94vMSwfu">gif source</a>
 </p> -->
   
-
+<div align="center">
+  <a href="https://open.spotify.com/user/ahmadzaki2975"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr Spotify Playing" width="400" /></a>
+</div>
+  
   # Hello 👋
 🙂 I'm **Ahmad Zaki Akmal**, you can call me **Zaki**. 
   
@@ -28,11 +31,11 @@ I plan to study 🎮 game development and 🌐 website development.
 
 Likes games 🕹, drawing 🎨, anime/manga 🎌
   
-## Spotify 🎧
+<!-- ## Spotify 🎧 -->
 <!-- Spotify status -->
-[<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/ahmadzaki2975)
+<!-- [<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/ahmadzaki2975) -->
 <!-- spotify sauce -->
-<p align="right">credits for spotify status <a href="https://github.com/novatorem/novatorem">here</a></p>
+<!-- <p align="right">credits for spotify status <a href="https://github.com/novatorem/novatorem">here</a></p> -->
 
 ## Social Medias 📮
 ### 📌Main
@@ -101,7 +104,7 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
 <p align="center" style="display: inline-block">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&card_height=150px&hide=stars,issues,contribs,prs">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark">
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark"> -->
     <!-- github stats sauce -->
     <p align="right">credits for github stats <a href="https://github.com/anuraghazra/github-readme-stats">here</a></p>
 </p>
