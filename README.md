@@ -1,17 +1,18 @@
 <h1 align="center">Welcome to My Profile</h1>
 
+<!-- COVER -->
 <p align="center">
   <!-- views count -->
-  <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=4082CD">
-  <br>
+<!--   <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=4082CD">
+  <br> -->
   <!-- gif cover -->
-  <img src="./gifs/senku2.gif">
+<!--   <img src="./gifs/senku2.gif">
   <br>
-</p>
+</p> -->
   <!-- sauce -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://giphy.com/gifs/dr-stone-senku-yJfsr3s7Sc94vMSwfu">gif source</a>
-</p>
+</p> -->
   
 
   # Hello 👋
