@@ -1,18 +1,11 @@
 <h1 align="center">Welcome to My Profile</h1>
 
 <!-- COVER -->
-<!-- <p align="center"> -->
-  <!-- views count -->
-<!--   <img width="100px" src="https://komarev.com/ghpvc/?username=ahmadzaki2975&color=4082CD">
-  <br> -->
-  <!-- gif cover -->
-<!--   <img src="./gifs/senku2.gif">
+<p align="center">
+  <!-- banner cover -->
+  <img src="./assets/images/banner x32.png">
   <br>
-</p> -->
-  <!-- sauce -->
-<!-- <p align="center">
-  <a href="https://giphy.com/gifs/dr-stone-senku-yJfsr3s7Sc94vMSwfu">gif source</a>
-</p> -->
+</p>
   
 <div align="center">
   <a href="https://open.spotify.com/user/ahmadzaki2975"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr Spotify Playing" width="400" /></a>
