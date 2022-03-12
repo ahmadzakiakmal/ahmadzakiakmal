@@ -75,7 +75,10 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
   -->
 </div>
 
-### Currently Learning 📚
+<details><summary><h3>Currently Learning</h3></summary>
+<p>
+
+<!-- ### Currently Learning 📚 -->
 <div style="float:left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
@@ -85,26 +88,29 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
   
 </div> 
   
-### Planning to Learn 🗺
+  ### Planning to Learn 🗺
 <div style="float:left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
 
-<!-- badge sauce -->
-<p align="right">
-  credits for the badges <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-">here</a>
 </p>
+</details>
 
-## Github Stats 📊
-<p align="center" style="display: inline-block">
+
+<details><summary><h2>Github Stats 📊</h2></summary>
+  <p>  
+    <!--     ## Github Stats 📊 -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=tokyonight&card_height=150px&hide=issues,">
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark"> -->
-    <!-- github stats sauce -->
-    <p align="right">credits for github stats <a href="https://github.com/anuraghazra/github-readme-stats">here</a></p>
+    <!--<img src="https://activity-graph.herokuapp.com/graph?username=ahmadzaki2975&theme=react-dark"> -->
 </p>
+  </p>
+</details>
+
+
+
   
 <h2 align="center">~~~</h2>
 
