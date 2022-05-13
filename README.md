@@ -25,12 +25,6 @@ I plan to study 🎮 game development and 🌐 website development.
 Likes games 🕹, drawing 🎨, anime/manga 🎌
 
 <a href="https://ahmadzaki2975.github.io/zaki2975/">My Site</a>
-  
-<!-- ## Spotify 🎧 -->
-<!-- Spotify status -->
-<!-- [<img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/ahmadzaki2975) -->
-<!-- spotify sauce -->
-<!-- <p align="right">credits for spotify status <a href="https://github.com/novatorem/novatorem">here</a></p> -->
 
 ## Social Medias 📮
 ### 📌Main
@@ -70,26 +64,31 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD644?style=for-the-badge&logo=python">
+  
+  <br>
+  <br>
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <!-- template
   <img src="">
   -->
 </div>
 
-<details><summary><h3>Currently Learning</h3></summary>
+<details><summary><h3>📚 Currently Learning</h3></summary>
 <p>
 
 <!-- ### Currently Learning 📚 -->
 <div style="float:left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   
 </div> 
   
-  ### Planning to Learn 🗺
+  #### Planning to Learn 🗺
 <div style="float:left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
