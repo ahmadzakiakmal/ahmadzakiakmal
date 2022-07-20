@@ -24,7 +24,7 @@ I plan to study 🎮 game development and 🌐 website development.
 
 Likes games 🕹, drawing 🎨, anime/manga 🎌
 
-You can visit my website <a href="https://ahmadzaki2975.vercel.app/">here</a>
+You can visit my website <a href="https://ahmadzaki.vercel.app/">here</a>
 
 ## Social Medias 📮
 ### 📌Main
