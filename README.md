@@ -27,20 +27,12 @@ Likes games 🕹, drawing 🎨, anime/manga 🎌
 You can visit my website <a href="https://ahmadzaki.vercel.app/">here</a>
 
 ## Social Medias 📮
-### 📌Main
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/ahmad._.zaki)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100014631301571)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ahmad-zaki-akmal)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/obscrn47)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ahmadzaki2975@gmail.com)
 [<img src="https://img.shields.io/badge/UGM.mail-073C64?style=for-the-badge&logo=gmail&logoColor=FDCB2C&">](mailto:ahmad.zaki.akmal@mail.ugm.ac.id)
- 
-### 🎉Trivial
-[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/ahmadzaki2975)
-[<img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white">](https://myanimelist.net/profile/Obsxcrn)
-<!-- template
-[<img src="">]()
--->
 
 ## Tools and Languages ⚙
 <div style="float:left">
