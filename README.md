@@ -6,7 +6,7 @@
   <a href="https://open.spotify.com/user/ahmadzaki2975"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr    Spotify Playing" width="400" /></a>
 </div>
 
-  # Hello 👋
+  # 👋 Hello 
 🙂 I'm **Ahmad Zaki Akmal**, you can call me **Zaki**. 
   
 🏡 I live in **Salatiga, Indonesia**.
@@ -18,10 +18,10 @@
 Currently focusing on 🌐 website development.
 
 
-## Portfolio Website
+## 🌐 Portfolio Website
 My portfolio website can be visited [here](https://ahmadzaki.vercel.app)
 
-## Social Medias 📮
+## 📮 Social Medias 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/ahmad._.zaki)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100014631301571)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ahmad-zaki-akmal)
