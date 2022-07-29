@@ -4,7 +4,9 @@
   <a href="https://open.spotify.com/user/ahmadzaki2975"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr    Spotify Playing" width="400" /></a>
 </div>
 
-🙂 I'm **Ahmad Zaki Akmal**, you can call me **Zaki**. 🏡 I live in **Salatiga, Indonesia**. 👨‍🎓 Undergrad **Information Engineering** Student at Gadjah Mada Univ.
+🙂 I'm **Ahmad Zaki Akmal**, you can call me **Zaki**. 🏡 I live in **Salatiga, Indonesia**. 
+
+👨‍🎓 Undergrad **Information Engineering** Student at Gadjah Mada Univ.
 
 
 ## 🌐 Portfolio Website
