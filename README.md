@@ -8,6 +8,9 @@
 <br>
 <div align="left">
   <a href="https://open.spotify.com/user/ahmadzaki2975"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr    Spotify Playing" width="400" /></a>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ahmadzaki2975&theme=rising-sun&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
 </div>
 
 ## Skills
