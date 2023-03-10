@@ -1,7 +1,7 @@
 # 👋 Hello 
 
 
-🙂 I'm **Ahmad Zaki Akmal**, you can call me **Zaki**. I am from **Salatiga, Indonesia**, but currently stays at **Yogyakarta, Indonesia** for studies.
+🙂 I'm **Ahmad Zaki Akmal**, you can call me **Zaki**. I am from **Salatiga, Indonesia**, but currently stays at **Yogyakarta, Indonesia** for my education.
 
 👨‍🎓 Undergrad **Information Engineering** Student at Gadjah Mada University.
 
