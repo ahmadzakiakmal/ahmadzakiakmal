@@ -1,9 +1,12 @@
-# 👋 Hello 
+# 👋 Hello, I'm Zaki!
+
+![LinkedIn cover - 1](https://user-images.githubusercontent.com/87590846/229348525-b3718094-a81d-4e45-9bf6-4f17c65c434c.png)
+
+Hello, I'm Ahmad Zaki Akmal, you can call me Zaki. 😁
+
+I'm an undergraduate Information Engineering Student in Gadjah Mada University. 👨‍🎓
 
 
-🙂 I'm **Ahmad Zaki Akmal**, you can call me **Zaki**. I am from **Salatiga, Indonesia**, but currently stays at **Yogyakarta, Indonesia** for my education.
-
-👨‍🎓 Undergrad **Information Engineering** Student at Gadjah Mada University.
 
 <br>
 <div align="left">
