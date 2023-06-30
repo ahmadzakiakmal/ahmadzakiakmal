@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Zaki!
+# 👋 Hello, I'm Ahmad Zaki!
 
 ![LinkedIn cover - 1](https://user-images.githubusercontent.com/87590846/229348525-b3718094-a81d-4e45-9bf6-4f17c65c434c.png)
 
