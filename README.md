@@ -1,15 +1,15 @@
-# 👋 Hello, I'm Ahmad Zaki!
+<!-- # 👋 Hello, I'm Ahmad Zaki!  -->
 
-![LinkedIn cover - 1](https://user-images.githubusercontent.com/87590846/229348525-b3718094-a81d-4e45-9bf6-4f17c65c434c.png)
+<!-- ![LinkedIn cover - 1](https://user-images.githubusercontent.com/87590846/229348525-b3718094-a81d-4e45-9bf6-4f17c65c434c.png)*/ -->
 
+<!--
 Hello, I'm Ahmad Zaki Akmal, you can call me Zaki. 😁
 
 I'm an undergraduate Information Engineering Student in Gadjah Mada University. 👨‍🎓
 
 I'm highly interested in Web Development and IoT Development.
+-->
 
-
-<br>
 <div align="left">
   <a href="https://open.spotify.com/user/ahmadzaki2975"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr    Spotify Playing" width="400" /></a>
   
