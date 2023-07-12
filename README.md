@@ -18,6 +18,7 @@ I'm highly interested in Web Development and IoT Development.
   
 </div>
 
+<!--
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,8 +47,8 @@ My portfolio website can be visited [here](https://ahmadzaki.vercel.app)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ahmad-zaki-akmal)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ahmadzaki2975@gmail.com)
 [<img src="https://img.shields.io/badge/UGM.mail-073C64?style=for-the-badge&logo=gmail&logoColor=FDCB2C&">](mailto:ahmad.zaki.akmal@mail.ugm.ac.id)
-
-<h2>Github Stats 📊</h2>
+-->
+<!-- <h2>Github Stats 📊</h2> -->
   <p>  
     <!--     ## Github Stats 📊 -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px">
