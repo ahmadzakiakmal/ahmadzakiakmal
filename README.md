@@ -13,9 +13,10 @@
 [<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/>](http://line.me/ti/p/~ahmadzaki2975)
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahmadzaki2975&theme=radical)
-![Zaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=dracula)
-  
-![](https://github-profile-trophy.vercel.app/?username=ahmadzaki2975&theme=radical)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzaki2975&layout=donut&theme=radical)
+![Zaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadzaki2975&theme=radical)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=ahmadzaki2975&theme=radical) -->
   
 </div>
 
