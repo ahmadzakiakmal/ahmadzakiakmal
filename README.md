@@ -1,9 +1,9 @@
 ## 👋 Hello, I'm Ahmad Zaki!
 
 
-🌐🎌 Full-stack we(e)b developer
+🌐🎌 Full-stack **We(e)b Developer**
 
-👨‍🎓 Information Engineering student at Universitas Gadjah Mada 
+👨‍🎓 **Information Engineering** student at **Universitas Gadjah Mada** 
 
 📚 Currently learning **Cloud Computing**, **Data Engineering**, **Internet of Things**, and **Mobile Development** 
 
