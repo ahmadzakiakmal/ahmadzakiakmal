@@ -1,16 +1,29 @@
 ## 👋 Hello, I'm Ahmad Zaki!
 
-![](https://raw.githubusercontent.com/ahmadzaki2975/ahmadzaki2975/main/assets/images/uta-sd.gif)
+<table>
+  <tbody>
+    <tr>
+      <td width="500px">
+        <ul>
+        <li>
+          🌐🎌 Full-stack <strong>We(e)b Developer</strong>
+        </li> 
+        <li>
+          👨‍🎓 <strong>Information Engineering</strong> student at Universitas Gadjah Mada
+        </li>
+        <li>
+          📚 Currently learning <strong>Cloud Computing</strong>, <strong>Data Engineering</strong>, <strong>Internet of Things</strong>, and <strong>Mobile Development</strong>
+        </li>
+       </p>
+      </ul>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/ahmadzaki2975/ahmadzaki2975/main/assets/images/uta-sd.gif" width="200px" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-🌐🎌 Full-stack **We(e)b Developer**
-
-👨‍🎓 **Information Engineering** student at **Universitas Gadjah Mada** 
-
-📚 Currently learning **Cloud Computing**, **Data Engineering**, **Internet of Things**, and **Mobile Development** 
-
-<!-- ![LinkedIn cover - 1](https://user-images.githubusercontent.com/87590846/229348525-b3718094-a81d-4e45-9bf6-4f17c65c434c.png)*/ -->
-
-<br />
 <div align="left">
   <a href="https://open.spotify.com/user/ahmadzaki2975"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr    Spotify Playing" width="400" /></a>
 
