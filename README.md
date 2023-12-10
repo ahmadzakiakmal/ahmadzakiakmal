@@ -1,5 +1,6 @@
 ## 👋 Hello, I'm Ahmad Zaki!
 
+![](https://raw.githubusercontent.com/ahmadzaki2975/ahmadzaki2975/main/assets/images/uta-sd.gif)
 
 🌐🎌 Full-stack **We(e)b Developer**
 
