@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Ahmad Zaki!
 
-<img src="https://raw.githubusercontent.com/ahmadzaki2975/ahmadzaki2975/main/assets/images/uta-sd.gif" width="200px" />
+<!-- <img src="https://raw.githubusercontent.com/ahmadzaki2975/ahmadzaki2975/main/assets/images/uta-sd.gif" width="200px" /> -->
 <p width="200">
     🌐🎌 Full-stack <strong>We(e)b Developer</strong> 
   <br />
