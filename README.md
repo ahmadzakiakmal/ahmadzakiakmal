@@ -1,6 +1,8 @@
 ## 👋 Hello, I'm Ahmad Zaki!
 
 <!-- <img src="https://raw.githubusercontent.com/ahmadzaki2975/ahmadzaki2975/main/assets/images/uta-sd.gif" width="200px" /> -->
+![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=ahmadzakiakmal&color=dc3f53)
+
 <p width="200">
     🌐🎌 Full-stack <strong>We(e)b Developer</strong> 
   <br />
