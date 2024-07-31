@@ -6,7 +6,7 @@
 <p width="200">
     🌐🎌 Full-stack <strong>We(e)b Developer</strong> 
   <br />
-    👨‍🎓 <strong>Third year Information Engineering</strong> student at Universitas Gadjah Mada
+    👨‍🎓 <strong>Final year Information Engineering</strong> student at Universitas Gadjah Mada
   <br />
     📚 Currently learning <strong>Cloud Computing</strong>, <strong>Data Engineering</strong>, <strong>Internet of Things</strong>, and <strong>Mobile Development</strong>
 </p>
