@@ -23,7 +23,7 @@
 [<img src="https://img.shields.io/badge/UGM.mail-073C64?style=for-the-badge&logo=gmail&logoColor=FDCB2C&">](mailto:ahmad.zaki.akmal@mail.ugm.ac.id)
 [<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/>](http://line.me/ti/p/~ahmadzaki2975)
   
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmadzakiakmal&theme=radical)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ahmadzakiakmal&theme=radical) -->
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzakiakmal&layout=donut&theme=radical)
 ![Zaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadzakiakmal&theme=radical)
