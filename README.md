@@ -4,10 +4,12 @@
 
 <p width="200">
     🌐🎌 Full-stack <strong>We(e)b Developer</strong> 
-  <br />
-    👨‍🎓 <strong>Final year Information Engineering</strong> student at Universitas Gadjah Mada
-  <br />
-    📚 Currently learning <strong>Cloud Computing</strong>, <strong>Data Engineering</strong>, <strong>Internet of Things</strong>, and <strong>Mobile Development</strong>
+    <br />
+    <br />
+    I’m a final-year Information Engineering student at Universitas Gadjah Mada, with a strong focus on Software Engineering, particularly in web development.
+    <br />
+    <br />
+    Recently, I’ve been exploring exciting new fields like <strong>Blockchain Technology</strong> and <strong>Distributed Systems</strong> for my thesis, and I’m keen to deepen my expertise in these areas.
 </p>
 
 <br />
