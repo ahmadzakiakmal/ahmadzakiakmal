@@ -14,8 +14,10 @@
 
 <br />
 
+<!--
 <div align="left">
   <a href="https://open.spotify.com/user/ahmadzaki2975"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr    Spotify Playing" width="400" /></a>
+-->
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/ahmad.zaki.akmal)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100014631301571)
