@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Ahmad Zaki!
 
-![](https://ahmadzakiakmal.my.id/music-widget.svg)
+![](https://ahmadzakiakmal.my.id/music-widget.svg?t)
 
 <p width="200">
     🌐🎌 Full-stack <strong>We(e)b Developer</strong> 
